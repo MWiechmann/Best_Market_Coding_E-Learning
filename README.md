@@ -1,4 +1,4 @@
-# Finding the Best Market for an E-Learning Platform
+# Finding the best market to advertise - Analysis of a New Coder Survey for an E-Learning Platform
 In this project I will be using relatively basic summary statistics to identify the best markets for advertising an e-learning company that offers programming courses. To see the analysis open [this codebook](https://nbviewer.jupyter.org/github/MWiechmann/Best_Market_Coding_E-Learning/blob/main/Finding%20the%20best%20market%20to%20advertise.ipynb).
 
 ## Basic assumptions for this project:
