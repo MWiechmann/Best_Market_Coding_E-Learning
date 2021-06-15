@@ -4,6 +4,7 @@ In this project I will am analyzing the data from [freeCodeCamp's 2017 New Coder
 ## Basic assumptions for this project:
 * The e-learning company's courses focus on web and mobile development, but some courses are also about data science, game development, and other areas.
 * The e-learning company wants to start by identifying the two most promising markets for their product
+* A subscription to the platform costs $59
 
 # Dataset used in this project
 I will be using data from [freeCodeCamp's 2017 New Coder Survey](https://www.freecodecamp.org/news/we-asked-20-000-people-who-they-are-and-how-theyre-learning-to-code-fff5d668969/). Free Code Camp runs a popular Medium publication, so their survey attracted a relatively wide of new coders
